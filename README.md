@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.theatlantic.com/thumbor/iF_MTPmyitVxmlnqOov2UBxweWI=/0x0:2000x1125/1920x1080/media/img/2020/07/28/WEL_Andersen_ChinaOpenerREDO/original.gif)
+![MasterHead](https://media2.giphy.com/media/VdoNp9BUcnXRowPaeW/200w.gif?cid=6c09b9522oz0g9jdd5ji9vfxgqw2zuz2fhkozw4fv59cvr4j&ep=v1_gifs_search&rid=200w.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Bao Au</h1>
 <h3 align="center">A passionate student at The University of Adelaide. Passionate about problem-solving in both life and society, especially when it comes to finding solutions that support and uplift those in need. Always eager for the next opportunity to grow and contribute.</h3>
 
