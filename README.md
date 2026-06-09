@@ -14,12 +14,10 @@ Always exploring new technologies and opportunities to grow.
 - 👨‍💻 [GitHub Projects](https://github.com/giabaoAu?tab=repositories)
 
 ---
-## My Favorite Quote
+## 📜 My Favorite Quote
 > "What I cannot create, I do not understand." - Richard Feynman
 
-## 🧠 Tech Stack
-
-### 🎨 Frontend
+### 💻 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
