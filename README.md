@@ -9,14 +9,13 @@ Computer Science graduate from The University of Adelaide.
 Passionate about solving real-world problems and building systems that create meaningful impact.  
 Always exploring new technologies and opportunities to grow.
 
-- 🔭 Currently working on: **Conference Management Platform (Coming Soon)**
-- 🌱 Learning: **React, Next.js, PostgreSQL, Azure**
-- 💬 Ask me about: **React, Node.js, C/C++, Next.js**
 - 📫 Email: **baoau135@gmail.com**
 - 📄 [LinkedIn](https://www.linkedin.com/in/bao-au-84bb41229/)
 - 👨‍💻 [GitHub Projects](https://github.com/giabaoAu?tab=repositories)
 
 ---
+## My Favorite Quote
+> "What I cannot create, I do not understand." - Richard Feynman
 
 ## 🧠 Tech Stack
 
@@ -54,7 +53,6 @@ Always exploring new technologies and opportunities to grow.
 
 ### 📱 Mobile & Other
 <p>
-  <img src="https://flutter.io/images/catalog-widget-placeholder.png" width="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
 </p>
@@ -64,7 +62,6 @@ Always exploring new technologies and opportunities to grow.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
 </p>
 
 ---
@@ -83,19 +80,4 @@ Always exploring new technologies and opportunities to grow.
   <a href="https://discord.gg/y4nder">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giabaoau&show_icons=true&layout=compact"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=giabaoau&show_icons=true"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giabaoau"/>
 </p>
