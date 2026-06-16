@@ -10,8 +10,7 @@ Passionate about solving real-world problems and building systems that create me
 Always exploring new technologies and opportunities to grow.
 
 - 📫 Email: **baoau135@gmail.com**
-- 📄 [LinkedIn](https://www.linkedin.com/in/bao-au-84bb41229/)
-- 👨‍💻 [GitHub Projects](https://github.com/giabaoAu?tab=repositories)
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b44b31b1-52e3-4ea0-a3b6-639bd79bb671" />[LinkedIn](https://www.linkedin.com/in/bao-au-84bb41229/)
 
 ---
 ## 📜 My Favorite Quote
