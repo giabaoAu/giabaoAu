@@ -5,9 +5,7 @@
 </div>
 
 ### 👨‍💻 About Me
-Computer Science graduate from The University of Adelaide.  
-Passionate about solving real-world problems and building systems that create meaningful impact.  
-Always exploring new technologies and opportunities to grow.
+Just a normal guy love building cool stuff (˵ •̀ ᴗ - ˵ ) 
 
 - 📫 Email: **baoau135@gmail.com**
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b44b31b1-52e3-4ea0-a3b6-639bd79bb671" />[https://www.linkedin.com/in/bao-au-84bb41229/](https://www.linkedin.com/in/bao-au-84bb41229/)
