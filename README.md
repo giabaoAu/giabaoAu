@@ -7,14 +7,14 @@
 ### 👨‍💻 About Me
 Just a normal guy love building cool stuff (˵ •̀ ᴗ - ˵ ) 
 
+- 📫 Email: **baoau135@gmail.com**
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b44b31b1-52e3-4ea0-a3b6-639bd79bb671" />[https://www.linkedin.com/in/bao-au-84bb41229/](https://www.linkedin.com/in/bao-au-84bb41229/)
+
 ## 🚀 Some cool stuff I build
 
 | Project | Description | Tech Stack | Links |
 |-----------|-------------|-------------|--------|
 | **Zeno** | Home Dashboard Chrome Extension (in progress) | Next.js · V3 · Zustand · Dexie | [🔗 Repo](N/A) • [🌍 Demo](Coming Soon |
-
-- 📫 Email: **baoau135@gmail.com**
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b44b31b1-52e3-4ea0-a3b6-639bd79bb671" />[https://www.linkedin.com/in/bao-au-84bb41229/](https://www.linkedin.com/in/bao-au-84bb41229/)
 
 ---
 ## 📜 My Favorite Quote
