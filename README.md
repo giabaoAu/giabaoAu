@@ -14,7 +14,7 @@ Just a normal guy love building cool stuff (˵ •̀ ᴗ - ˵ )
 
 | Project | Description | Tech Stack | Links |
 |-----------|-------------|-------------|--------|
-| **Zeno** | Home Dashboard Chrome Extension (in progress) | Next.js · V3 · Zustand · Dexie | [🔗 Repo](N/A) • [🌍 Demo](Coming Soon |
+| **Zeno** | Home Dashboard Chrome Extension (in progress) | Next.js · V3 · Zustand · Dexie | (Coming Soon) |
 
 ---
 ## 📜 My Favorite Quote
