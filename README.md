@@ -8,7 +8,7 @@
 Just a normal guy love building cool stuff (˵ •̀ ᴗ - ˵ ) 
 
 - 📫 Email: **baoau135@gmail.com**
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b44b31b1-52e3-4ea0-a3b6-639bd79bb671" />[https://www.linkedin.com/in/bao-au-84bb41229/](https://www.linkedin.com/in/bao-au-84bb41229/)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b44b31b1-52e3-4ea0-a3b6-639bd79bb671" /> Linkedin: [https://www.linkedin.com/in/bao-au-84bb41229/](https://www.linkedin.com/in/bao-au-84bb41229/)
 
 ## 🚀 Some cool stuff I build
 
@@ -37,7 +37,6 @@ Just a normal guy love building cool stuff (˵ •̀ ᴗ - ˵ )
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
 </p>
 
 ### 🗄️ Databases
