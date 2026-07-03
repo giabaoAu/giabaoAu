@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://i.pinimg.com/originals/58/df/05/58df056e65e818e013fd7b576c8f2306.gif" />
   
-  # Hi 👋, I'm Bao Au
+  # Hi 👋, I'm Bao Au (˶>⩊<˶)
 </div>
 
 ### 👨‍💻 About Me
@@ -22,7 +22,7 @@ Just a normal guy love building cool stuff (˵ •̀ ᴗ - ˵ )
 
 ---
 <div align="center">
-  ## 🔗 Connect With Me
+  (੭˃ᴗ˂)੭ Connect With Me
   <p>
     <a href="https://www.linkedin.com/in/bao-au-84bb41229/">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
