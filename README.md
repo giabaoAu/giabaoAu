@@ -33,7 +33,7 @@ Just a normal guy love building cool stuff (˵ •̀ ᴗ - ˵ )
     <a href="https://instagram.com/augiabao">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
     </a>
-    <a href="https://discord.gg/y4nder">
+    <a href="#">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30"/>
     </a>
   </p>
